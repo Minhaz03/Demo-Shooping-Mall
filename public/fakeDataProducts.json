@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Smart TV 4K UHD",
+      "image": "smart_tv.jpg",
+      "description": "A high-definition television with internet connectivity and smart features.",
+      "price": 19.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "name": "Gaming Laptop",
+      "image": "https://i.ibb.co.com/kXPCvvR/11-best-asus-gaming-laptop-for-2023-1698990738.jpg",
+      "description": "A powerful laptop designed for gaming with high-end graphics and processing capabilities.",
+      "price": 29.99,
+      "category": "Electronics",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "image": "https://i.ibb.co.com/tzVh11T/Wireless-Earbuds-1.jpg",
+      "description": "Bluetooth earbuds with noise cancellation and long battery life.",
+      "price": 39.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "name": "Digital Camera",
+      "image": "https://i.ibb.co.com/0GPS5j1/digital-camera-7058839-1280.jpg",
+      "description": "A high-resolution camera with interchangeable lenses and manual controls.",
+      "price": 49.99,
+      "category": "Electronics",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "image": "https://i.ibb.co.com/52MBFCT/2067474.jpg",
+      "description": "A wearable device with fitness tracking, notifications, and other smart features.",
+      "price": 59.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "name": "Gaming Console",
+      "image": "https://i.ibb.co.com/F4VbmR4/maxresdefault.jpg",
+      "description": "A home entertainment system designed for playing video games.",
+      "price": 69.99,
+      "category": "Electronics",
+      "isFeature": false
+    },
+    {
+      "id": 7,
+      "name": "Tablet",
+      "image": "https://i.ibb.co.com/HHcLYLm/table-technology-ipad-1334597.jpg",
+      "description": "A portable computer with a touchscreen interface.",
+      "price": 79.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 8,
+      "name": "Soundbar",
+      "image": "https://i.ibb.co.com/XCH2d24/Soundbar-Speaker-PNG-Pic-362x279.png",
+      "description": "A speaker system designed to improve audio quality for TVs and other devices.",
+      "price": 89.99,
+      "category": "Electronics",
+      "isFeature": false
+    },
+    {
+      "id": 9,
+      "name": "Drone",
+      "image": "https://i.ibb.co.com/wCFd57f/Drone-Photography2.webp",
+      "description": "An unmanned aerial vehicle with a camera and remote control.",
+      "price": 99.99,
+      "category": "Electronics",
+      "isFeature": true
+    },
+    {
+      "id": 10,
+      "name": "Headphones",
+      "image": "https://i.ibb.co.com/gmQcPn2/headphones-yellow-background-music-black-wallpaper.jpg",
+      "description": "Over-ear headphones with noise cancellation and high-quality sound.",
+      "price": 109.99,
+      "category": "Electronics",
+      "isFeature": false
+    }
+  ]
